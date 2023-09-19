@@ -28,7 +28,7 @@
 This is a simple, ruby on rails api.
 
 ### Frontend
-[Hello react frontend](https://github.com/danielsafari143/hello-rails-backend)
+[Hello react frontend](https://github.com/danielsafari143/hello-react-fronted)
 
 ## 🛠 Built With <a name="built-with"></a>
 
