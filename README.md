@@ -30,6 +30,11 @@ This is a simple, ruby on rails api.
 ### Frontend
 [Hello react frontend](https://github.com/danielsafari143/hello-react-fronted)
 
+### Api Endpoints
+```sh
+    http://localhost:3000/api/greetings
+```
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
