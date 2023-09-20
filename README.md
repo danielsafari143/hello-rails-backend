@@ -110,7 +110,7 @@ To run tests, run the following commands:
 
 If you would like to contribute to this app, please feel free to fork the repository and submit a pull request.
 
-Feel free to check the [issues page](https://github.com/danielsafari143/Hello react app/issues).
+Feel free to check the [issues page](https://github.com/danielsafari143/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
