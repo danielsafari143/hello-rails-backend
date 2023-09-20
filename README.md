@@ -28,7 +28,7 @@
 This is a simple, ruby on rails api.
 
 ### Frontend
-[Hello react frontend](https://github.com/danielsafari143/hello-react-fronted)
+[Hello react frontend](https://github.com/danielsafari143/hello-rails-backend/tree/route)
 
 ### Api Endpoints
 ```sh
