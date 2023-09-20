@@ -32,7 +32,7 @@ This is a simple, ruby on rails api.
 
 ### Api Endpoints
 ```sh
-    http://localhost:3000/api/greetings
+    http://localhost:3000/api/v1/greetings
 ```
 
 ## 🛠 Built With <a name="built-with"></a>
